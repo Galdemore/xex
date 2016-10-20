@@ -23,6 +23,7 @@ int main()
 			else
 			{
 				cout<< "Your sadness parallels the homosexuality of your ancestors, whom merely accidentally seeded you and did not intentionally reproduce"<<endl; 
+				cin.get();
 			}
 			isOpen = false;
 		}
